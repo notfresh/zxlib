@@ -41,6 +41,6 @@ install(TARGETS zxlib # mymathapp
         LIBRARY DESTINATION lib
         ARCHIVE DESTINATION lib
         RUNTIME DESTINATION bin
-        PUBLIC_HEADER DESTINATION include/zxlib2
+        PUBLIC_HEADER DESTINATION include/zxlib
         )
 
